@@ -33,7 +33,7 @@
 
 You will need a Raspberry Pi with **fresh Raspbian/Kali** on the SD card, because you don't want anything else running in the background.
 
-Boot up the Pi, get an SSH sell or connect a monitor and a keyboard and enter these commands:
+Boot up the Pi, get an SSH shell or connect a monitor and a keyboard and enter these commands:
 
 ```
 $ sudo apt update && sudo apt install python3 python3-pip
